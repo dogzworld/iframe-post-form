@@ -3,7 +3,7 @@
 	"title": "jQuery Iframe Post Form",
 	"description": "This jQuery ajax upload plugin creates a hidden iframe and sets the form's target attribute to post to that iframe. When the form is submitted, it is posted (including the file uploads) to the hidden iframe. Finally, the plugin collects the server's response from the iframe.",
 	"keywords": ["ajax","iframe","upload","file","post","form"],
-	"version": "1.1.1",
+	"version": "1.1.3",
 	"author": {
 		"name": "Ewen Elder",
 		"url": "http://www.jainaewen.com/files/"
