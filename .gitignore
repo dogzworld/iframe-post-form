@@ -1,0 +1,9 @@
+*.a
+*.class
+*.dll
+*.exe
+*.project
+*.pyc
+*.pyo
+*.so
+*.svn
