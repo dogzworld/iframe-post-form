@@ -1,14 +1,9 @@
 {
-	"name": "equal-height-columns",
-	"title": "jQuery Equal Height Columns",
-	"description": "This jQuery plugin sets all of the passed jQuery collection of elements to have the same height.",
-	"keywords": [
-		"equal",
-		"height",
-		"columns",
-		"column"
-	],
-	"version": "1.0.0",
+	"name": "iframe-post-form",
+	"title": "jQuery Iframe Post Form",
+	"description": "This jQuery ajax upload plugin creates a hidden iframe and sets the form's target attribute to post to that iframe. When the form is submitted, it is posted (including the file uploads) to the hidden iframe. Finally, the plugin collects the server's response from the iframe.",
+	"keywords": ["ajax","iframe","upload","file","post","form"],
+	"version": "1.1.1",
 	"author": {
 		"name": "Ewen Elder",
 		"url": "http://www.jainaewen.com/files/"
@@ -19,10 +14,10 @@
 			"url": "http://www.opensource.org/licenses/mit-license.php"
 		}
 	],
-	"bugs": "https://github.com/dogzworld/equal-height-columns/issues",
-	"homepage": "http://www.jainaewen.com/files/javascript/jquery/equal-height-columns.html",
-	"docs": "http://www.jainaewen.com/files/javascript/jquery/equal-height-columns.html#api",
-	"download": "http://sourceforge.net/projects/equalheightcolu/files/",
+	"bugs": "https://github.com/dogzworld/iframe-post-form/issues",
+	"homepage": "http://www.jainaewen.com/files/javascript/jquery/iframe-post-form.html",
+	"docs": "http://www.jainaewen.com/files/javascript/jquery/iframe-post-form.html#api",
+	"download": "http://sourceforge.net/projects/iframepostform/files/",
 	"dependencies": {
 		"jquery": ">=1.4.x <2.x"
 	}
